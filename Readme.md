@@ -1,4 +1,4 @@
-GIT :
+GIT : https://github.com/MathieuBornet/group_4x_ttk4155_h23
 
 
 The code for the two nodes are in each correspondant folder. The node 1 represents the circuit mounted on the breadboard and the node 2 represents the Arduino.
